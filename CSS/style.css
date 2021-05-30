@@ -1,0 +1,28 @@
+.ttl {
+  font-size: 20px;
+  color: #00008b;
+}
+.nav {
+  list-style: none;
+  text-align: right;
+}
+.nav li {
+  display: inline;
+}
+.nav li a {
+  text-decoration: none;
+  color: #00008b;
+}
+.comment {
+  font-size: 40px;
+}
+.img {
+  margin: 100px 0 0 auto;
+  display: block;
+  width: 50%;
+}
+.box {
+  width: 700px;
+  height: 200px;
+  background: #00008b;
+}
